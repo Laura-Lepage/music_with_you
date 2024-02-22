@@ -62,7 +62,7 @@ header{
     width: 100vw;
     background-color: #000;
     @media screen and (min-width:1000px){
-        position: fixed;
+        position: absolute;
         top: 5px;
         right: 0;
         bottom: auto;
